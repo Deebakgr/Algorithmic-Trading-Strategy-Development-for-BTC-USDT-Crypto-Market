@@ -1,4 +1,7 @@
-streamlit 
+streamlit
 pandas
 numpy
 cryptocompare
+scikit-learn
+matplotlib
+pykalman
